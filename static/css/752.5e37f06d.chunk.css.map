@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/752.5e37f06d.chunk.css","mappings":"AAAA,8BACI,YAAa,CAEb,qBAAsB,CADtB,QAAS,CAGT,eAAgB,CADhB,UAEJ","sources":["components/NavCurrency/NavCurrency.module.css"],"sourcesContent":[".container {\r\n    display: flex;\r\n    gap: 32px;\r\n    flex-direction: column;\r\n    width: 100%;\r\n    margin-top: 12px;\r\n}"],"names":[],"sourceRoot":""}
